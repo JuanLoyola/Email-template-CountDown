@@ -1,4 +1,4 @@
-# Juan Loyola Email/Newsletter
+# Newsletter with count down timer
 This repository is a practice as a way to try out new things
 
 # Tools 
